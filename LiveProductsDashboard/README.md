@@ -11,7 +11,7 @@ npm install
 ```
 npm run dev //запуск dev сервера
 npm run build //сборка для production
-npm test  //запуск тестов
+npm run test  //запуск тестов
 node ws-server.js // запуск websocket сервера
 ```
 ### Структура проекта
