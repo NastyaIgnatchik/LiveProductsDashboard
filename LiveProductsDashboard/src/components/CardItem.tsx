@@ -30,7 +30,7 @@ const { data} = useSubscribeToPriceUpdatesQuery()
           alt={title}
           sx={{
             borderRadius: "18px",
-            maxHeight: "150px",
+            height: "150px",
             padding: 2,
             objectFit: 'contain'
           }} />
